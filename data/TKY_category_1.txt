@@ -1,0 +1,241 @@
+236	Afghan Restaurant
+122	African Restaurant
+140	American Restaurant
+222	Animal Shelter
+127	Antique Shop
+246	Arepa Restaurant
+245	Argentinian Restaurant
+94	Art Gallery
+118	Art Museum
+112	Arts & Crafts Store
+209	Arts & Entertainment
+27	Asian Restaurant
+38	Athletic & Sport
+189	Australian Restaurant
+161	Automotive Shop
+41	BBQ Joint
+219	Bagel Shop
+149	Beer Garden
+147	Bike Rental / Bike Share
+103	Bike Shop
+216	Board Shop
+15	Board Shop
+69	Bowling Alley
+184	Brazilian Restaurant
+141	Breakfast Spot
+173	Breakfast Spot
+211	Bridal Shop
+46	Bridal Shop
+32	Bridal Shop
+73	Burger Joint
+242	Burrito Place
+17	Bus Station
+8	Bus Station
+186	Cajun / Creole Restaurant
+107	Camera Store
+156	Camera Store
+99	Candy Store
+183	Car Dealership
+163	Car Wash
+200	Caribbean Restaurant
+95	Caribbean Restaurant
+238	Caribbean Restaurant
+91	Caribbean Restaurant
+11	Chinese Restaurant
+145	Chinese Restaurant
+221	Chinese Restaurant
+61	Clothing Store
+49	Coffee Shop
+202	College & University
+84	College Academic Building
+170	College Stadium
+228	College Theater
+139	Comedy Club
+30	Community College
+24	Concert Hall
+4	Convenience Store
+2	Convention Center
+123	Cosmetics Shop
+223	Cuban Restaurant
+194	Cupcake Shop
+64	Deli / Bodega
+87	Department Store
+78	Design Studio
+67	Dessert Shop
+166	Dim Sum Restaurant
+66	Dim Sum Restaurant
+217	Dim Sum Restaurant
+77	Donut Shop
+50	Drugstore / Pharmacy
+58	Dumpling Restaurant
+199	Eastern European Restaurant
+6	Electronics Store
+120	Elementary School
+119	Embassy / Consulate
+239	Ethiopian Restaurant
+9	Event Space
+155	Event Space
+157	Event Space
+234	Falafel Restaurant
+7	Fast Food Restaurant
+88	Fast Food Restaurant
+213	Financial or Legal Service
+193	Fish & Chips Shop
+55	Flea Market
+162	Flower Shop
+33	Flower Shop
+37	Food & Drink Shop
+116	Food Truck
+235	Fraternity House
+138	French Restaurant
+241	French Restaurant
+65	Fried Chicken Joint
+188	Funeral Home
+44	Furniture / Home Store
+190	Gaming Cafe
+57	Gaming Cafe
+224	Garden Center
+79	Gas Station / Garage
+175	Gas Station / Garage
+121	General College & University
+60	General Entertainment
+47	General Travel
+164	German Restaurant
+110	Gift Shop
+247	Gluten-free Restaurant
+28	Government Building
+31	Gym / Fitness Center
+154	Harbor / Marina
+62	Hardware Store
+136	High School
+113	Historic Site
+146	History Museum
+14	Hobby Shop
+142	Home (private)
+192	Hot Dog Joint
+71	Hot Dog Joint
+231	Housing Development
+132	Ice Cream Shop
+72	Indian Restaurant
+159	Internet Cafe
+25	Italian Restaurant
+5	Japanese Restaurant
+180	Jewelry Store
+92	Korean Restaurant
+233	Latin American Restaurant
+106	Laundry Service
+214	Law School
+101	Law School
+80	Light Rail
+227	Mac & Cheese Joint
+169	Malaysian Restaurant
+54	Malaysian Restaurant
+229	Malaysian Restaurant
+34	Medical Center
+212	Medical School
+197	Mediterranean Restaurant
+196	Mexican Restaurant
+135	Middle Eastern Restaurant
+100	Middle School
+172	Military Base
+21	Miscellaneous Shop
+114	Mobile Phone Shop
+232	Moroccan Restaurant
+195	Moroccan Restaurant
+215	Motorcycle Shop
+59	Movie Theater
+93	Moving Target
+56	Moving Target
+230	Music School
+177	Music Store
+75	Music Venue
+134	Nail Salon
+96	Nail Salon
+226	Nail Salon
+198	Nightlife Spot
+205	Nursery School
+12	Nursery School
+48	Other Great Outdoors
+102	Other Nightlife
+148	Outdoors & Recreation
+10	Paper / Office Supplies Store
+26	Paper / Office Supplies Store
+83	Paper / Office Supplies Store
+124	Performing Arts Venue
+185	Peruvian Restaurant
+207	Pet Service
+174	Pet Store
+167	Photography Lab
+133	Pizza Place
+153	Pizza Place
+51	Pizza Place
+53	Pizza Place
+181	Pizza Place
+210	Pool Hall
+218	Portuguese Restaurant
+76	Post Office
+108	Professional & Other Places
+171	Public Art
+86	Public Art
+29	Ramen /  Noodle House
+89	Record Shop
+125	Recycling Facility
+111	Rental Car Location
+126	Residential Building (Apartment / Condo)
+82	Rest Area
+35	Rest Area
+176	Rest Area
+43	Rest Area
+204	Salad Place
+104	Salon / Barbershop
+160	Sandwich Place
+237	Scandinavian Restaurant
+151	Scenic Lookout
+63	Scenic Lookout
+137	Science Museum
+97	Sculpture Garden
+143	Seafood Restaurant
+168	Shop & Service
+39	Shop & Service
+243	Ski Area
+45	Smoke Shop
+109	Snack Place
+244	Sorority House
+85	Soup Place
+206	South American Restaurant
+248	Southern / Soul Food Restaurant
+42	Spa / Massage
+131	Spanish Restaurant
+19	Spiritual Center
+130	Sporting Goods Shop
+13	Sporting Goods Shop
+144	Sporting Goods Shop
+240	Storage Facility
+150	Student Center
+3	Student Center
+74	Sushi Restaurant
+220	Swiss Restaurant
+90	Swiss Restaurant
+208	Taco Place
+225	Tanning Salon
+201	Tapas Restaurant
+203	Tapas Restaurant
+40	Tea Room
+18	Tea Room
+36	Thai Restaurant
+52	Thai Restaurant
+129	Thrift / Vintage Store
+22	Toy / Game Store
+165	Trade School
+1	Train Station
+158	Travel & Transport
+178	Travel Lounge
+191	Turkish Restaurant
+23	Turkish Restaurant
+128	Vegetarian / Vegan Restaurant
+152	Video Game Store
+81	Video Store
+182	Vietnamese Restaurant
+179	Vietnamese Restaurant
+98	Wings Joint
+117	Wings Joint
