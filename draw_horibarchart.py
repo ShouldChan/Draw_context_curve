@@ -1,4 +1,5 @@
 # coding:utf-8
+# 带误差线的水平条形图
 from matplotlib import pyplot as plt
 import numpy as np
 

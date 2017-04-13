@@ -1,4 +1,5 @@
 # coding:utf-8
+# 条形图群
 import matplotlib.pyplot as plt
 
 # 输入数据
