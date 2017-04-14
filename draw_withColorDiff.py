@@ -21,4 +21,5 @@ plt.subplot(122)
 plt.bar(x_pos, mean_values, align='center', alpha=0.5, color=cmap2.to_rgba(mean_values))
 plt.ylim(0, max(mean_values) * 1.1)
 
+
 plt.show()
