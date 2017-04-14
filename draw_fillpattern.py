@@ -28,4 +28,5 @@ fig.axes.get_yaxis().set_visible(False)
 plt.ylim([0, max(mean_values) * 1.1])
 plt.xticks(x_pos, patterns)
 
+
 plt.show()
