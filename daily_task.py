@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # matplotlib.matplotlib_fname()
 
 labels = [u'中文论文', u'seminar_PPT', u'DNN入门&看论文']
-fracs = [30, 65, 5]
+fracs = [10, 85, 5]
 colors = ['yellowgreen', 'lightskyblue', 'chartreuse']
 explode = [0.1, 0, 0]  # 0.1 凸出这部分，
 plt.axes(aspect=1)  # set this , Figure is round, otherwise it is an ellipse
@@ -23,5 +23,5 @@ pctdistance，百分比的text离圆心的距离
 patches, l_texts, p_texts，为了得到饼图的返回值，p_texts饼图内部文本的，l_texts饼图外label的文本
 '''
 
-plt.title(u'Wednesday')
+plt.title(u'Wednesday&Thursday')
 plt.show()
