@@ -2,12 +2,13 @@
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
+
 # matplotlib.matplotlib_fname()
 
-labels = [u'中文论文', u'seminar_PPT', u'DNN入门&看论文']
-fracs = [10, 85, 5]
-colors = ['yellowgreen', 'lightskyblue', 'chartreuse']
-explode = [0.1, 0, 0]  # 0.1 凸出这部分，
+labels = [u'seminar_PPT',u'中文论文', u'DNN入门&看论文', u'选修空间数据库PPT']
+fracs = [80, 10, 5, 5]
+colors = ['yellowgreen', 'lightskyblue', 'white', 'chartreuse']
+explode = [0.1, 0, 0, 0]  # 0.1 凸出这部分，
 plt.axes(aspect=1)  # set this , Figure is round, otherwise it is an ellipse
 # autopct ，show percet
 plt.pie(x=fracs, labels=labels, colors=colors, explode=explode, autopct='%3.1f %%',
@@ -23,5 +24,5 @@ pctdistance，百分比的text离圆心的距离
 patches, l_texts, p_texts，为了得到饼图的返回值，p_texts饼图内部文本的，l_texts饼图外label的文本
 '''
 
-plt.title(u'Wednesday&Thursday')
+plt.title(u'Wednesday&Thursday&Friday')
 plt.show()
